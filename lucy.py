@@ -225,8 +225,7 @@ or modification of this software is strictly prohibited without explicit
 written permission from the copyright holder.
 
 Contact Admin at WhatsApp:
-* +62 895-0861-1233 (Second Dev)
-* +62 859-5139-2121 (First Dev)
+-
 ---------------------------------------------------------------
 """
 
